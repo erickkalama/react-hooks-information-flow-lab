@@ -111,3 +111,16 @@ header button {
   color: var(--font-color-light);
   font-size: 0.8em;
 }
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.in-cart {
+  text-decoration: line-through;
+}
